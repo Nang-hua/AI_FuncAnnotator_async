@@ -1,0 +1,15 @@
+{
+  "endpoint": "https://api.siliconflow.cn/v1/chat/completions",
+  "api_key": "",
+  "model": "deepseek-ai/DeepSeek-R1",
+  "timeout": 90,
+  "max_functions": 5,
+  "max_calls_per_function": 12,
+  "max_insn_per_function": 120,
+  "max_pseudocode_lines": 80,
+  "comment_limit": 200,
+  "system_prompt": "你是严谨的逆向工程师，擅长根据伪代码、汇编和调用关系给函数命名并写中文功能注释。",
+  "rename_even_if_user_named": false,
+  "verify_tls": true,
+  "extra_headers": {}
+}
