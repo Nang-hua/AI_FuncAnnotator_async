@@ -1,0 +1,2 @@
+# AI_FuncAnnotator_async
+IDA插件用于调用API，给函数重命名和简要解释
